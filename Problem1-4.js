@@ -14,8 +14,10 @@
 // Create a class method that will function that will change the rating of the book. Create three objects of the class
 // Book and put them in an array. Lastly, use the array to display only the names of the books.
 
-main();
-    function main() {
+function main(){
+
+
+    problem1() {
     //problem1();
     //problem2();
     //problem4();
